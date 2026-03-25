@@ -1,0 +1,39 @@
+# ⚙️ Amazon Q Setup Guide
+
+## 📌 Step 1: Create AWS Account
+- Go to AWS official website
+- Sign up with email
+- Add billing details (free tier available)
+
+---
+
+## 📌 Step 2: Enable Amazon Q
+- Open AWS Console
+- Search for "Amazon Q Developer"
+- Enable the service
+
+---
+
+## 📌 Step 3: Install AWS Toolkit
+
+### For VS Code:
+- Open Extensions
+- Search "AWS Toolkit"
+- Install it
+
+---
+
+## 📌 Step 4: Login to AWS
+- Open AWS Toolkit
+- Connect using IAM / credentials
+
+---
+
+## 📌 Step 5: Start Using Amazon Q
+- Open command palette
+- Start asking queries
+- Use it for code, debugging, and cloud help
+
+---
+
+## ✅ Setup Completed!
