@@ -1,0 +1,43 @@
+# 🧠 How Amazon Q Works
+
+Amazon Q follows a simple AI-based workflow:
+
+---
+
+## 🔹 Step 1: User Input
+User provides a prompt like:
+- Generate code
+- Fix error
+- Explain AWS service
+
+---
+
+## 🔹 Step 2: Understanding
+Amazon Q uses Natural Language Processing (NLP) to understand the request.
+
+---
+
+## 🔹 Step 3: Data Retrieval
+It connects with:
+- AWS documentation
+- Cloud configurations
+- Internal knowledge
+
+---
+
+## 🔹 Step 4: Response Generation
+Using Generative AI:
+- Generates code
+- Suggests solutions
+- Provides explanations
+
+---
+
+## 🔹 Step 5: Continuous Learning
+- Improves based on usage
+- Provides better suggestions over time
+
+---
+
+## 💡 Summary
+Input → AI Understanding → AWS Data → Output
