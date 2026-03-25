@@ -1,0 +1,38 @@
+# 💬 Amazon Q Example Prompts
+
+Here are some useful prompts you can try:
+
+---
+
+## 🧑‍💻 Code Generation
+- Generate Python code for AWS S3 upload
+- Create Terraform script for EC2
+
+---
+
+## 🐞 Debugging
+- Fix AWS Lambda error
+- Debug Docker container issue
+
+---
+
+## ⚙️ DevOps Tasks
+- Create CI/CD pipeline using GitHub Actions
+- Write Kubernetes deployment YAML
+
+---
+
+## ☁️ AWS Help
+- Explain EC2 vs Lambda
+- Best practices for S3 security
+
+---
+
+## 💡 Tips
+- Be clear in your prompt
+- Use specific requirements
+- Ask step-by-step queries
+
+---
+
+🚀 Practice more to get better results!
