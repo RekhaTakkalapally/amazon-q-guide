@@ -14,42 +14,33 @@ Amazon Q works closely with AWS services and tools.
 - Generates commands
 - Helps automate tasks
 
-Example:
-# 💬 Amazon Q Example Prompts
+---
 
-Here are some useful prompts you can try:
+## 🧑‍💻 IDE Integration
+Works with:
+- VS Code
+- IntelliJ
+
+Features:
+- Code suggestions
+- Debugging help
+- Auto-completion
 
 ---
 
-## 🧑‍💻 Code Generation
-- Generate Python code for AWS S3 upload
-- Create Terraform script for EC2
+## 🔁 CI/CD Integration
+Used in DevOps pipelines:
+- Automates build process
+- Helps in deployment scripts
+- Improves workflow efficiency
 
 ---
 
-## 🐞 Debugging
-- Fix AWS Lambda error
-- Debug Docker container issue
+## 🔐 Security
+- Uses IAM roles
+- Secure access control
 
 ---
 
-## ⚙️ DevOps Tasks
-- Create CI/CD pipeline using GitHub Actions
-- Write Kubernetes deployment YAML
-
----
-
-## ☁️ AWS Help
-- Explain EC2 vs Lambda
-- Best practices for S3 security
-
----
-
-## 💡 Tips
-- Be clear in your prompt
-- Use specific requirements
-- Ask step-by-step queries
-
----
-
-🚀 Practice more to get better results!
+## 💡 Conclusion
+Amazon Q improves AWS usage by making it faster, smarter, and automated.
