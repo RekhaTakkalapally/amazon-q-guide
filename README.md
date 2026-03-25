@@ -55,3 +55,7 @@ amazon-q-guide/
 │ └── aws-integration.md
 │── examples/
 │ └── prompts.md
+# Amazon Q DevOps Project 🚀
+
+![Amazon Q Setup Guide](Amazon%20Q%20setup%20guide%20infographic.png)
+
